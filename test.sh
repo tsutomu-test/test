@@ -2,6 +2,7 @@
 
 main() {
     echo "foo"
+    echo "bar"
 }
 
 main "$@"
